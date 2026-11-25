@@ -27,7 +27,7 @@ This commands includes
 <BR>
 
 ## Output
-## trace
+## 	netstat
 <img width="581" height="498" alt="image" src="https://github.com/user-attachments/assets/7f09e7a5-4686-4d5f-8381-06f0bbd90a31" />
 
 ## ipconfig
@@ -36,7 +36,7 @@ This commands includes
 ## ping
 <img width="590" height="222" alt="image" src="https://github.com/user-attachments/assets/ab29313c-79b3-488e-96cf-e9a997c709dc" />
 
-## tracet
+## 	tracert
 <img width="453" height="205" alt="image" src="https://github.com/user-attachments/assets/24b5435a-088d-49aa-b6dd-efa49fa150cc" />
 
 ## nslookup
@@ -48,7 +48,7 @@ This commands includes
 ## hostname
 <img width="237" height="73" alt="image" src="https://github.com/user-attachments/assets/e71c3196-6f4a-415a-b600-92507efe3332" />
 
-## nbstat
+##  nbtstat
 <img width="701" height="415" alt="image" src="https://github.com/user-attachments/assets/64318af8-2e0b-4372-bb30-961b1855dc31" />
 
 ## arp
