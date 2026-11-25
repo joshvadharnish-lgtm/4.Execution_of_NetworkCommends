@@ -27,25 +27,34 @@ This commands includes
 <BR>
 
 ## Output
-trace
+## trace
 <img width="581" height="498" alt="image" src="https://github.com/user-attachments/assets/7f09e7a5-4686-4d5f-8381-06f0bbd90a31" />
-ipconfig
+
+## ipconfig
 <img width="731" height="487" alt="image" src="https://github.com/user-attachments/assets/9b876b0e-9434-4571-add2-5770c682e2b7" />
-ping
+
+## ping
 <img width="590" height="222" alt="image" src="https://github.com/user-attachments/assets/ab29313c-79b3-488e-96cf-e9a997c709dc" />
-tracet
+
+## tracet
 <img width="453" height="205" alt="image" src="https://github.com/user-attachments/assets/24b5435a-088d-49aa-b6dd-efa49fa150cc" />
-nslookup
+
+## nslookup
 <img width="377" height="443" alt="image" src="https://github.com/user-attachments/assets/348fc787-7283-4e49-ab54-05a3ad379553" />
-getmac
+
+## getmac
 <img width="680" height="160" alt="image" src="https://github.com/user-attachments/assets/e41e22e5-bf61-4ea4-bfff-49cab49b0cd1" />
-hostname
+
+## hostname
 <img width="237" height="73" alt="image" src="https://github.com/user-attachments/assets/e71c3196-6f4a-415a-b600-92507efe3332" />
-nbstat
+
+## nbstat
 <img width="701" height="415" alt="image" src="https://github.com/user-attachments/assets/64318af8-2e0b-4372-bb30-961b1855dc31" />
-arp
+
+## arp
 <img width="752" height="535" alt="image" src="https://github.com/user-attachments/assets/fd6a21bc-3e07-474e-912b-3321a999ced3" />
-systeminfo
+
+## systeminfo
 <img width="1071" height="1058" alt="image" src="https://github.com/user-attachments/assets/e72f3ebc-c939-4964-9eb3-9c283c14fa7d" />
 
 
